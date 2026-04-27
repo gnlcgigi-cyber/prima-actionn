@@ -1,16 +1,13 @@
-# 🚀 Benvenuto nella Documentazione
+# 🚀 Documentazione - Versione 2.0 (TEST)
 
-> La tua guida completa per automatizzare il deploy con **GitHub Actions** e **MkDocs**
-
----
-
-## 🎯 Cos'è Questo Progetto?
-
-Questo è un progetto dimostrativo che mostra come:
-
-- ✅ Creare **GitHub Actions** per automatizzare workflow
-- ✅ Generare documentazione professionale con **MkDocs**
-- ✅ Pubblicare automaticamente su **GitHub Pages**
-- ✅ Implementare una pipeline **CI/CD** completa
+> ✅ **Se vedi questo messaggio, il deploy automatico ha funzionato!**
 
 ---
+
+## 📦 Cosa c'è di nuovo?
+Questa homepage è stata aggiornata per verificare che la pipeline CI/CD funzioni correttamente.
+
+###  Stato del Sistema
+- ✅ Build automatica attiva
+- ✅ Deploy su GitHub Pages funzionante
+- ✅ Aggiornamento al push verificato
